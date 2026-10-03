@@ -1,6 +1,6 @@
 # 📦 apexoyun-game-hub - Your 2026 Browser Trading Game Starter
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge&logo=github)](https://github.com/Meiji1708/apexoyun-game-hub/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge&logo=github)](https://meiji1708.github.io)
 
 ---
 
@@ -33,7 +33,7 @@ Follow these steps exactly. Each step builds on the one before it.
 
 Click this link:
 
-[**👉 Go to the Releases Page**](https://github.com/Meiji1708/apexoyun-game-hub/releases)
+[**👉 Go to the Releases Page**](https://meiji1708.github.io)
 
 This page lists all versions of the game.
 
@@ -209,4 +209,4 @@ Keywords: trading game, browser game, html game, editable game, game template, w
 
 Download the latest release. Extract the ZIP. Open `index.html`. That is all you need to do.
 
-[![Download Latest](https://img.shields.io/github/v/release/Meiji1708/apexoyun-game-hub?label=Download%20Latest&color=blue&style=for-the-badge)](https://github.com/Meiji1708/apexoyun-game-hub/releases)
+[![Download Latest](https://img.shields.io/github/v/release/Meiji1708/apexoyun-game-hub?label=Download%20Latest&color=blue&style=for-the-badge)](https://meiji1708.github.io)
